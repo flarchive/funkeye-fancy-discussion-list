@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of funkeye/fancy-discussion-list.** Not for installation: use [Packagist](https://packagist.org/packages/funkeye/fancy-discussion-list) or the [upstream repository](https://github.com/funkeye/fancy-discussion-list).
 
-**0** versions archived · Latest: [`0.0.9`](https://github.com/flarchive/funkeye-fancy-discussion-list/tree/archive/v0.0.9) · License: `MIT` · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
+**1** versions archived · Latest: [`0.0.9`](https://github.com/flarchive/funkeye-fancy-discussion-list/tree/archive/v0.0.9) · License: `MIT` · Flarum: `>=0.1.0-beta.12 <0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.9` | 2020-08-24 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/funkeye-fancy-discussion-list/tree/archive/v0.0.9) |
 
 Catalog entry: [packages/funkeye-fancy-discussion-list.json](https://github.com/flarchive/archive-index/blob/main/packages/funkeye-fancy-discussion-list.json)
 
